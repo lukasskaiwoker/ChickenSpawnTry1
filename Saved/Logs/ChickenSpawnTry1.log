@@ -1485,3 +1485,34 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.02-18.32.58:578][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.06.02-18.32.58:581][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
 [2022.06.02-18.32.58:642][965]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.06.02-18.39.08:387][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.06.02-18.39.08:411][173]LogSavePackage: Moving '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Saved/ThirdPersonExampleMap_Auto2FF049D8341CB66E75995AD9767FFE2AD.tmp' to '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2022.06.02-18.39.08:413][173]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.032
+[2022.06.02-18.39.08:413][173]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2022.06.02-18.40.54:607][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.06.02-18.40.56:194][792]LogSlate: Window 'Save Content' being destroyed
+[2022.06.02-18.40.56:304][792]LogSavePackage: Moving '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Saved/Clavos724D494940058F72294752B3885CA699.tmp' to '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Content/ThirdPersonBP/Corral/Corral2/Clavos.uasset'
+[2022.06.02-18.40.56:325][792]LogSavePackage: Moving '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Saved/Clavos2BC2341446FB1B6F6BCEFF98525E2E28.tmp' to '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Content/ThirdPersonBP/Corral/Corral3/Clavos.uasset'
+[2022.06.02-18.40.56:342][792]LogSavePackage: Moving '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Saved/Corral2_group2_clavo1FF4B34944BD0608F84790A4DCF82F95.tmp' to '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Content/ThirdPersonBP/Corral/Corral2/Corral2_group2_clavo.uasset'
+[2022.06.02-18.40.56:345][792]LogSavePackage: Moving '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Saved/Corral2_group2_soportes26CF8910E45B45C560883EEAC5CBD0687.tmp' to '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Content/ThirdPersonBP/Corral/Corral2/Corral2_group2_soportes2.uasset'
+[2022.06.02-18.40.56:349][792]LogSavePackage: Moving '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Saved/Corral2_group2_tablon263A781294874D57144D5C9BF9987791A.tmp' to '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Content/ThirdPersonBP/Corral/Corral2/Corral2_group2_tablon2.uasset'
+[2022.06.02-18.40.56:366][792]LogSavePackage: Moving '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Saved/corral329AA8FE4848F7293EE64A0FBF7D2E24E2.tmp' to '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Content/ThirdPersonBP/Corral/Corral3/corral32.uasset'
+[2022.06.02-18.40.56:387][792]LogSavePackage: Moving '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Saved/Soportes8AA8591440CF1F224E6604B422609C72.tmp' to '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Content/ThirdPersonBP/Corral/Corral2/Soportes.uasset'
+[2022.06.02-18.40.56:409][792]LogSavePackage: Moving '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Saved/SoportesC55422744A711307A66B75B667DB779D.tmp' to '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Content/ThirdPersonBP/Corral/Corral3/Soportes.uasset'
+[2022.06.02-18.40.56:431][792]LogSavePackage: Moving '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Saved/Tablones738F3B7E45DD1EE775B0B880392C07E3.tmp' to '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Content/ThirdPersonBP/Corral/Corral3/Tablones.uasset'
+[2022.06.02-18.40.56:455][792]LogSavePackage: Moving '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Saved/Tablones2DD9C2A94245AD6544DC6AB793B038AB.tmp' to '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Content/ThirdPersonBP/Corral/Corral2/Tablones.uasset'
+[2022.06.02-18.40.56:462][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.06.02-18.40.56:482][792]LogSavePackage: Moving '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Saved/ThirdPersonExampleMapEDE2F0194D4DF407F5FAE0B115FA8D4E.tmp' to '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.06.02-18.40.56:489][792]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.033
+[2022.06.02-18.40.56:520][792]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.02-18.40.56:520][792]LogContentValidation: Display: Validating Material /Game/ThirdPersonBP/Corral/Corral3/Tablones.Tablones
+[2022.06.02-18.40.56:520][792]LogContentValidation: Display: Validating Material /Game/ThirdPersonBP/Corral/Corral3/Clavos.Clavos
+[2022.06.02-18.40.56:520][792]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Corral/Corral3/corral32.corral32
+[2022.06.02-18.40.56:520][792]LogContentValidation: Display: Validating Material /Game/ThirdPersonBP/Corral/Corral2/Soportes.Soportes
+[2022.06.02-18.40.56:520][792]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Corral/Corral2/Corral2_group2_soportes2.Corral2_group2_soportes2
+[2022.06.02-18.40.56:520][792]LogContentValidation: Display: Validating Material /Game/ThirdPersonBP/Corral/Corral2/Tablones.Tablones
+[2022.06.02-18.40.56:520][792]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Corral/Corral2/Corral2_group2_tablon2.Corral2_group2_tablon2
+[2022.06.02-18.40.56:520][792]LogContentValidation: Display: Validating Material /Game/ThirdPersonBP/Corral/Corral2/Clavos.Clavos
+[2022.06.02-18.40.56:520][792]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Corral/Corral2/Corral2_group2_clavo.Corral2_group2_clavo
+[2022.06.02-18.40.56:520][792]LogContentValidation: Display: Validating Material /Game/ThirdPersonBP/Corral/Corral3/Soportes.Soportes
+[2022.06.02-18.40.56:520][792]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
