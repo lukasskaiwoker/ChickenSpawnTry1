@@ -1516,3 +1516,654 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.02-18.40.56:520][792]LogContentValidation: Display: Validating StaticMesh /Game/ThirdPersonBP/Corral/Corral2/Corral2_group2_clavo.Corral2_group2_clavo
 [2022.06.02-18.40.56:520][792]LogContentValidation: Display: Validating Material /Game/ThirdPersonBP/Corral/Corral3/Soportes.Soportes
 [2022.06.02-18.40.56:520][792]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.06.02-18.57.59:788][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.06.02-18.58.18:760][547]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.06.02-18.58.31:745][808]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.02-18.58.31:766][808]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.02-18.58.34:983][922]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.02-18.59.59:027][722]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.06.02-18.59.59:043][722]LogContentBrowser: Creating deferred item: NewFolder
+[2022.06.02-19.00.05:225][889]LogContentBrowser: Attempting asset rename: NewFolder -> nuevo
+[2022.06.02-19.00.05:226][889]LogContentBrowser: End creating deferred item NewFolder
+[2022.06.02-19.00.15:838][101]Cmd: EDIT COPY
+[2022.06.02-19.00.46:283][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.06.02-19.00.46:312][323]LogSavePackage: Moving '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Saved/ThirdPersonExampleMap_Auto3A1D7BCE249887DEC3E5EB39C4980DE61.tmp' to '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2022.06.02-19.00.46:314][323]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.061
+[2022.06.02-19.00.46:314][323]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.061
+[2022.06.02-19.05.57:213][722]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Mr.Swagger\Downloads\Normal1.png)
+[2022.06.02-19.05.57:226][722]LogTexture: Display: Building textures: Normal1 (BGRA8, 500X210)
+[2022.06.02-19.05.57:257][722]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Mr.Swagger\Downloads\Pasto1.jpg)
+[2022.06.02-19.05.57:263][722]LogTexture: Display: Building textures: Pasto1 (BGRA8, 500X210)
+[2022.06.02-19.06.00:481][787]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.06.02-19.06.00:512][787]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.06.02-19.06.06:182][959]LogContentBrowser: Attempting asset rename: NewMaterial -> M_Pasto1
+[2022.06.02-19.06.06:190][959]LogContentBrowser: End creating deferred item NewMaterial
+[2022.06.02-19.06.08:114][  0]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/nuevo/M_Pasto1.M_Pasto1
+[2022.06.02-19.06.08:122][  0]LogMaterial: Display: Missing cached shadermap for M_Pasto1 in PCD3D_SM5, Default, SM5 (DDC key hash: C4D20C8B8C1E04547D9634E731E2AD6361B2D285), compiling. 
+[2022.06.02-19.06.08:134][  0]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.06.02-19.06.08:219][  0]LogMaterial: Display: Missing cached shadermap for M_Pasto1 in PCD3D_SM5, Default, SM5 (DDC key hash: E87E53A82578E5C8C627312F3BC565416201BAFB), compiling. 
+[2022.06.02-19.06.08:221][  0]LogMaterial: Display: Missing cached shadermap for M_Pasto1 in PCD3D_SM5, Default, SM5 (DDC key hash: A2DB72AF64FBB673730FA8DF772646631AB9B20A), compiling. 
+[2022.06.02-19.06.08:272][  0]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.02-19.06.08:322][  0]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.02-19.06.08:322][  0]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.06.02-19.06.08:322][  0]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.06.02-19.06.08:322][  0]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.02-19.06.08:322][  0]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.06.02-19.06.09:865][ 24]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.06.02-19.06.09:865][ 24]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.06.02-19.06.09:865][ 24]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.06.02-19.06.09:865][ 24]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.06.02-19.06.09:865][ 24]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.06.02-19.06.09:865][ 24]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.06.02-19.06.09:865][ 24]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.06.02-19.06.09:865][ 24]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.06.02-19.06.09:865][ 24]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-19.06.09:924][ 24]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.02-19.06.09:924][ 24]LogShaderCompilers: Display: Total job queries 330, among them cache hits 220 (66.67%)
+[2022.06.02-19.06.09:924][ 24]LogShaderCompilers: Display: Tracking 71 distinct input hashes that result in 15 distinct outputs (21.13%)
+[2022.06.02-19.06.09:924][ 24]LogShaderCompilers: Display: RAM used: 0.07 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2022.06.02-19.06.09:924][ 24]LogShaderCompilers: Display: ================================================
+[2022.06.02-19.06.10:023][ 25]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.02-19.06.16:028][ 92]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.06.02-19.06.16:028][ 92]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.06.02-19.06.16:028][ 92]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.02-19.06.16:028][ 92]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.02-19.06.25:226][194]LogMaterial: Display: Missing cached shadermap for M_Pasto1 in PCD3D_SM5, Default, SM5 (DDC key hash: C06F9E1FEE5BACEFC270C1BB9B14CBEFC9E2EF07), compiling. 
+[2022.06.02-19.06.25:228][194]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9C02F894BD03FE232B2C68F9BBC2BE37571CDDC1), compiling. 
+[2022.06.02-19.06.25:230][194]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 74457719EF7E707EA0A754A691BFC23949A603AD), compiling. 
+[2022.06.02-19.06.25:233][194]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.02-19.06.25:272][195]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.02-19.06.25:272][195]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.06.02-19.06.25:272][195]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.06.02-19.06.25:272][195]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.02-19.06.25:272][195]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.02-19.06.25:289][196]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.06.02-19.06.25:289][196]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.06.02-19.06.25:289][196]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.02-19.06.26:367][207]LogMaterial: Display: Missing cached shadermap for M_Pasto1 in PCD3D_SM5, Default, SM5 (DDC key hash: 4AEE35C5DEF280DFB16A187F27B054AAFADB927B), compiling. 
+[2022.06.02-19.06.26:375][207]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0D7521364B4F70504BD5FF0D060EDAD9F7E5129A), compiling. 
+[2022.06.02-19.06.26:376][207]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 739AE6101ADC4E5F6219FE0F859D2426EBC07C80), compiling. 
+[2022.06.02-19.06.26:377][207]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 29600247E7EFD291A102D6822CE81AA2521E0E2A), compiling. 
+[2022.06.02-19.06.26:381][207]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.02-19.06.26:414][208]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.06.02-19.06.26:414][208]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.06.02-19.06.26:414][208]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.02-19.06.26:414][208]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.02-19.06.26:430][209]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.02-19.06.26:430][209]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.06.02-19.06.26:431][209]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.06.02-19.06.26:431][209]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.02-19.06.29:983][245]LogMaterial: Display: Missing cached shadermap for M_Pasto1 in PCD3D_SM5, Default, SM5 (DDC key hash: E03FB6369931C35065DB41A1AB0FF62F866C92A9), compiling. 
+[2022.06.02-19.06.29:985][245]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 438A8C88B7B48DBA2A728D48DD3DE841A9EED2DA), compiling. 
+[2022.06.02-19.06.29:989][245]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.02-19.06.29:989][245]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.06.02-19.06.29:989][245]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.02-19.06.30:005][246]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.02-19.06.30:005][246]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.06.02-19.06.30:005][246]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.06.02-19.06.30:005][246]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.02-19.06.30:024][247]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.06.02-19.06.30:024][247]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.06.02-19.06.30:024][247]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.06.02-19.06.30:024][247]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.06.02-19.06.30:024][247]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.06.02-19.06.30:024][247]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.06.02-19.06.30:024][247]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.06.02-19.06.30:024][247]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.06.02-19.06.30:024][247]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.06.02-19.06.30:024][247]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-19.06.30:934][256]MaterialEditorStats: Texture samplers: 3/16
+[2022.06.02-19.06.30:934][256]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.06.02-19.06.30:934][256]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.02-19.06.31:138][257]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.06.02-19.06.31:138][257]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.06.02-19.06.31:138][257]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.06.02-19.06.31:138][257]MaterialEditorStats: Texture samplers: 3/16
+[2022.06.02-19.06.31:138][257]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.06.02-19.06.31:138][257]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.02-19.06.32:142][267]LogMaterial: Display: Missing cached shadermap for M_Pasto1 in PCD3D_SM5, Default, SM5 (DDC key hash: 548EF09EEC6FE68474AE179A0705E843960E9799), compiling. 
+[2022.06.02-19.06.32:144][267]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: BD0989582532950CE17324FD8BE2C17924B5C9B4), compiling. 
+[2022.06.02-19.06.32:146][267]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.02-19.06.32:146][267]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.06.02-19.06.32:146][267]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.02-19.06.32:156][268]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.02-19.06.32:170][269]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.06.02-19.06.32:170][269]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.06.02-19.06.32:170][269]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.02-19.06.32:170][269]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.06.02-19.06.32:170][269]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.06.02-19.06.32:170][269]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.06.02-19.06.32:170][269]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.06.02-19.06.32:170][269]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.06.02-19.06.32:170][269]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.06.02-19.06.32:170][269]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.06.02-19.06.32:170][269]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.06.02-19.06.32:170][269]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.06.02-19.06.32:170][269]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-19.06.32:984][278]MaterialEditorStats: Texture samplers: 4/16
+[2022.06.02-19.06.32:984][278]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.06.02-19.06.32:984][278]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.02-19.06.33:089][280]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.06.02-19.06.33:089][280]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.06.02-19.06.33:089][280]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.06.02-19.06.33:089][280]MaterialEditorStats: Texture samplers: 4/16
+[2022.06.02-19.06.33:089][280]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.06.02-19.06.33:089][280]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.02-19.07.13:021][861]LogMaterialEditor: Saving and Compiling material M_Pasto1
+[2022.06.02-19.07.13:373][861]LogMaterial: Display: Missing cached shadermap for M_Pasto1 in PCD3D_SM5, Default, SM5 (DDC key hash: BAABDF86B86E6347D94C3302EF3E329276509B29), compiling. 
+[2022.06.02-19.07.13:412][861]LogMaterial: Display: Missing cached shadermap for M_Pasto1 in PCD3D_SM5, Default, SM5 (DDC key hash: 3B3D74603C193E17889025C1AD4D667BDA1431E5), compiling. 
+[2022.06.02-19.07.13:446][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.06.02-19.07.13:454][861]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.06.02-19.07.14:471][861]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2022.06.02-19.07.14:471][861]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.02-19.07.14:480][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.06.02-19.07.14:673][861]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2022.06.02-19.07.14:673][861]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2022.06.02-19.07.14:673][861]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2022.06.02-19.07.14:673][861]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2022.06.02-19.07.14:673][861]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2022.06.02-19.07.14:673][861]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2022.06.02-19.07.14:673][861]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-19.07.14:707][861]LogSavePackage: Moving '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Saved/M_Pasto1F34D206048758933A4EE71A2FD310A3B.tmp' to '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Content/StarterContent/Materials/nuevo/M_Pasto1.uasset'
+[2022.06.02-19.07.14:748][861]AssetCheck: New page: Asset Save: M_Pasto1
+[2022.06.02-19.07.14:748][861]LogContentValidation: Display: Validating Material /Game/StarterContent/Materials/nuevo/M_Pasto1.M_Pasto1
+[2022.06.02-19.07.14:754][861]MaterialEditorStats: Texture samplers: 4/16
+[2022.06.02-19.07.14:754][861]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.06.02-19.07.14:754][861]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.02-19.07.17:309][899]LogSlate: Window 'M_Pasto1' being destroyed
+[2022.06.02-19.07.17:381][899]LogSlate: Window 'M_Pasto1' being destroyed
+[2022.06.02-19.07.17:391][899]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-19.07.17:391][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-19.07.28:558][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (corral43)
+[2022.06.02-19.07.28:836][243]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.02-19.07.39:002][459]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.02-19.07.39:008][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.02-19.07.39:008][459]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 2, 2022, 9:07:39 AM)
+[2022.06.02-19.07.39:008][459]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.06.02-19.07.39:018][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009895s)
+[2022.06.02-19.07.39:019][459]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.06.02-19.07.39:019][459]LogPlayLevel: PIE: World Init took: (0.001106s)
+[2022.06.02-19.07.39:019][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011134s)
+[2022.06.02-19.07.39:102][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.06.02-19.07.39:105][459]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.06.02-19.07.39:105][459]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.02-19.07.39:105][459]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.02-19.07.39:105][459]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.02-19.07.39:105][459]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.02-19.07.39:105][459]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.02-19.07.39:105][459]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.02-19.07.39:105][459]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.02-19.07.39:105][459]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.02-19.07.39:105][459]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.02-19.07.39:105][459]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.02-19.07.39:105][459]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.02-19.07.39:105][459]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.02-19.07.39:108][459]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.02-19.07.39:108][459]LogAudioMixer: Display: 1: FrontRight
+[2022.06.02-19.07.39:124][459]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.06.02-19.07.39:124][459]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.02-19.07.39:124][459]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.02-19.07.39:124][459]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.02-19.07.39:125][459]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.02-19.07.39:125][459]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.02-19.07.39:125][459]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.02-19.07.39:126][459]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.02-19.07.39:126][459]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.02-19.07.39:126][459]LogInit: FAudioDevice initialized.
+[2022.06.02-19.07.39:126][459]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2022.06.02-19.07.39:138][459]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.06.02-19.07.39:141][459]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.06.02-14.07.39
+[2022.06.02-19.07.39:141][459]LogWorld: Bringing up level for play took: 0.002139
+[2022.06.02-19.07.39:141][459]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.06.02-19.07.39:147][459]PIE: Server logged in
+[2022.06.02-19.07.39:148][459]PIE: Play in editor total start time 0.141 seconds.
+[2022.06.02-19.09.22:340][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.02-19.09.22:340][553]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.06.02-19.09.22:341][553]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-19.09.22:341][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-19.09.22:355][553]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.02-19.09.22:370][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-19.09.22:375][553]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.02-19.09.22:375][553]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.02-19.09.22:377][553]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.02-19.09.22:380][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.02-19.09.22:382][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.06.02-19.09.22:419][554]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.06.02-19.09.36:100][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.06.02-19.10.21:640][278]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/nuevo/M_Pasto1.M_Pasto1
+[2022.06.02-19.10.21:649][278]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 778B84C86404C5C464C65A6DA95A23E6A3E212E5), compiling. 
+[2022.06.02-19.10.21:657][278]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.06.02-19.10.21:758][278]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 106945F3D570EFC38749ECD7C0A0275C3287E7F7), compiling. 
+[2022.06.02-19.10.21:761][278]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_2 in PCD3D_SM5, Default, SM5 (DDC key hash: D02DDE46B2A219920019F98D47141AFD578402D2), compiling. 
+[2022.06.02-19.10.21:762][278]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 07001A48CDFD4A9AEED2A5927A3C6E976C274966), compiling. 
+[2022.06.02-19.10.21:763][278]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: E3F124202B7A1B20A7538E08A93183281492EF10), compiling. 
+[2022.06.02-19.10.21:804][278]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.02-19.10.21:804][278]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.06.02-19.10.21:804][278]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.02-19.10.21:852][278]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.02-19.10.21:852][278]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.06.02-19.10.21:852][278]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.06.02-19.10.21:852][278]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.06.02-19.10.21:852][278]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.06.02-19.10.21:852][278]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.06.02-19.10.21:852][278]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.06.02-19.10.21:852][278]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.06.02-19.10.21:852][278]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.06.02-19.10.21:852][278]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.06.02-19.10.21:852][278]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.06.02-19.10.21:852][278]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.06.02-19.10.21:852][278]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-19.10.21:852][278]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.02-19.10.22:096][282]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.02-19.10.22:096][282]LogShaderCompilers: Display: Total job queries 455, among them cache hits 295 (64.84%)
+[2022.06.02-19.10.22:096][282]LogShaderCompilers: Display: Tracking 110 distinct input hashes that result in 39 distinct outputs (35.45%)
+[2022.06.02-19.10.22:096][282]LogShaderCompilers: Display: RAM used: 0.22 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2022.06.02-19.10.22:096][282]LogShaderCompilers: Display: ================================================
+[2022.06.02-19.10.28:719][380]MaterialEditorStats: Texture samplers: 4/16
+[2022.06.02-19.10.28:719][380]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.06.02-19.10.28:720][380]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.02-19.10.29:187][387]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.06.02-19.10.29:187][387]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.06.02-19.10.29:187][387]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.06.02-19.10.29:187][387]MaterialEditorStats: Texture samplers: 4/16
+[2022.06.02-19.10.29:187][387]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.06.02-19.10.29:187][387]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.02-19.10.34:300][445]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_2 in PCD3D_SM5, Default, SM5 (DDC key hash: AC6DC2FA7B6BAEAF763F79FA0DF55A1AE252A430), compiling. 
+[2022.06.02-19.10.34:305][445]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.02-19.10.34:306][445]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.06.02-19.10.34:306][445]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.02-19.10.34:361][447]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.06.02-19.10.34:361][447]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.06.02-19.10.34:361][447]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.06.02-19.10.34:361][447]MaterialEditorStats: Texture samplers: 4/16
+[2022.06.02-19.10.34:361][447]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.06.02-19.10.34:361][447]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.02-19.10.35:895][465]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_2 in PCD3D_SM5, Default, SM5 (DDC key hash: F987F9E10A87D800AD9872001DD81214DE2DE628), compiling. 
+[2022.06.02-19.10.35:897][465]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.02-19.10.35:897][465]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.06.02-19.10.35:897][465]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.02-19.10.35:961][467]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.06.02-19.10.35:961][467]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.06.02-19.10.35:961][467]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.06.02-19.10.35:961][467]MaterialEditorStats: Texture samplers: 4/16
+[2022.06.02-19.10.35:961][467]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.06.02-19.10.35:961][467]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.06.02-19.10.55:182][725]LogSlate: Window 'Message' being destroyed
+[2022.06.02-19.10.55:187][725]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/StarterContent/Materials/nuevo/M_Pasto1.M_Pasto1
+(Selecting 'No' will cause all changes to be lost!)
+[2022.06.02-19.10.55:510][725]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 0C87A5FF5B36C5F2D65C3E9D41DBBBDC2C5DEDB6), compiling. 
+[2022.06.02-19.10.55:536][725]LogMaterial: Display: Missing cached shadermap for M_Pasto1 in PCD3D_SM5, Default, SM5 (DDC key hash: F93623B65E3B181A93C8DA26FB1BF7CE183D740E), compiling. 
+[2022.06.02-19.10.55:568][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.06.02-19.10.55:691][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.06.02-19.10.55:713][725]LogSlate: Window 'M_Pasto1' being destroyed
+[2022.06.02-19.10.55:715][725]LogSlate: Window 'M_Pasto1' being destroyed
+[2022.06.02-19.10.55:724][725]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-19.10.55:724][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-19.12.12:482][790]Cmd: TRANSACTION UNDO
+[2022.06.02-19.12.12:482][790]LogEditorTransaction: Undo Create Actors
+[2022.06.02-19.12.29:549][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.06.02-19.12.30:343][236]LogSlate: Window 'Save Content' being destroyed
+[2022.06.02-19.12.30:432][236]LogSavePackage: Moving '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Saved/M_Pasto10C70150D403758151225708916EAA8CB.tmp' to '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Content/StarterContent/Materials/nuevo/M_Pasto1.uasset'
+[2022.06.02-19.12.30:459][236]LogSavePackage: Moving '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Saved/Normal15CB8C8B3405FE485CB740FBCE8522E65.tmp' to '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Content/StarterContent/Materials/nuevo/Normal1.uasset'
+[2022.06.02-19.12.30:478][236]LogSavePackage: Moving '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Saved/Pasto12E489FA94A7198D20A79019FC0C45307.tmp' to '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Content/StarterContent/Materials/nuevo/Pasto1.uasset'
+[2022.06.02-19.12.30:485][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.06.02-19.12.30:504][236]LogSavePackage: Moving '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Saved/ThirdPersonExampleMapF88E8DFC4E06AC60049511B2A47FE28A.tmp' to '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.06.02-19.12.30:509][236]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.030
+[2022.06.02-19.12.30:534][236]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.02-19.12.30:534][236]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.06.02-19.12.30:534][236]LogContentValidation: Display: Validating Material /Game/StarterContent/Materials/nuevo/M_Pasto1.M_Pasto1
+[2022.06.02-19.12.30:534][236]LogContentValidation: Display: Validating Texture2D /Game/StarterContent/Materials/nuevo/Pasto1.Pasto1
+[2022.06.02-19.12.30:534][236]LogContentValidation: Display: Validating Texture2D /Game/StarterContent/Materials/nuevo/Normal1.Normal1
+[2022.06.02-19.17.35:398][657]LogAudioMixer: Resetting audio stream to device id 
+[2022.06.02-19.17.35:412][657]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.02-19.17.35:413][657]LogAudioMixer: Display: 1: FrontRight
+[2022.06.02-19.20.54:634][672]LogHttp: Warning: 000002603CF5CF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.02-19.20.54:634][672]LogHttp: Warning: 000002603CF5CF00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.06.02-19.20.54:634][672]LogHttp: Warning: 000002603CF5CF00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x25fb389f430 [can pipeline])
+[2022.06.02-19.20.54:634][672]LogHttp: Warning: 000002603CF5CF00: libcurl info message cache 1 (Re-using existing connection! (#18) with host datarouter.ol.epicgames.com)
+[2022.06.02-19.20.54:634][672]LogHttp: Warning: 000002603CF5CF00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.225.114.150) port 443 (#18))
+[2022.06.02-19.20.54:635][672]LogHttp: Warning: 000002603CF5CF00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.06.02-19.20.54:635][672]LogHttp: Warning: 000002603CF5CF00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.06.02-19.20.54:635][672]LogHttp: Warning: 000002603CF5CF00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.06.02-19.20.54:635][672]LogHttp: Warning: 000002603CF5CF00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.06.02-19.20.54:635][672]LogHttp: Warning: 000002603CF5CF00: libcurl info message cache 7 (Closing connection 18)
+[2022.06.02-19.20.54:635][672]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.02-19.22.12:754][699]LogHttp: Warning: 00000260073E6B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.02-19.22.12:754][699]LogHttp: Warning: 00000260073E6B00: request failed, libcurl error: 35 (SSL connect error)
+[2022.06.02-19.22.12:754][699]LogHttp: Warning: 00000260073E6B00: libcurl info message cache 0 (  Trying 18.233.176.243...)
+[2022.06.02-19.22.12:755][699]LogHttp: Warning: 00000260073E6B00: libcurl info message cache 1 (TCP_NODELAY set)
+[2022.06.02-19.22.12:755][699]LogHttp: Warning: 00000260073E6B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.233.176.243) port 443 (#19))
+[2022.06.02-19.22.12:755][699]LogHttp: Warning: 00000260073E6B00: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2022.06.02-19.22.12:755][699]LogHttp: Warning: 00000260073E6B00: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.06.02-19.22.12:755][699]LogHttp: Warning: 00000260073E6B00: libcurl info message cache 5 (SSL re-using session ID)
+[2022.06.02-19.22.12:755][699]LogHttp: Warning: 00000260073E6B00: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.06.02-19.22.12:755][699]LogHttp: Warning: 00000260073E6B00: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2022.06.02-19.22.12:755][699]LogHttp: Warning: 00000260073E6B00: libcurl info message cache 8 (Closing connection 19)
+[2022.06.02-19.22.13:091][700]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.02-19.23.02:562][947]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.06.02-19.23.02:575][947]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.06.02-19.23.04:992][ 21]LogContentBrowser: Attempting asset rename: NewMaterial -> prueba
+[2022.06.02-19.23.04:993][ 21]LogContentBrowser: End creating deferred item NewMaterial
+[2022.06.02-19.23.06:524][ 50]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ThirdPersonBP/Corral/Corral3/prueba.prueba
+[2022.06.02-19.23.06:526][ 50]LogMaterial: Display: Missing cached shadermap for prueba in PCD3D_SM5, Default, SM5 (DDC key hash: 7F2255034EC141541F7BBDDC2FB8B1EC50E9D222), compiling. 
+[2022.06.02-19.23.06:535][ 50]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.06.02-19.23.06:635][ 50]LogMaterial: Display: Missing cached shadermap for prueba in PCD3D_SM5, Default, SM5 (DDC key hash: 02989BCC0D43C834D62CD27959E41BE9AAAADD6A), compiling. 
+[2022.06.02-19.23.06:637][ 50]LogMaterial: Display: Missing cached shadermap for prueba in PCD3D_SM5, Default, SM5 (DDC key hash: 5FB679C9DB1F7E56429BAA0FD70E69A69D658BDD), compiling. 
+[2022.06.02-19.23.06:687][ 50]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.02-19.23.06:739][ 50]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.02-19.23.06:739][ 50]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.06.02-19.23.06:739][ 50]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.06.02-19.23.06:739][ 50]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.02-19.23.06:739][ 50]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.06.02-19.23.08:086][ 71]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.06.02-19.23.08:086][ 71]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.06.02-19.23.08:086][ 71]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.06.02-19.23.08:086][ 71]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.06.02-19.23.08:086][ 71]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.06.02-19.23.08:086][ 71]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.06.02-19.23.08:086][ 71]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.06.02-19.23.08:086][ 71]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.06.02-19.23.08:086][ 71]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-19.23.08:141][ 71]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.02-19.23.08:141][ 71]LogShaderCompilers: Display: Total job queries 531, among them cache hits 351 (66.10%)
+[2022.06.02-19.23.08:141][ 71]LogShaderCompilers: Display: Tracking 121 distinct input hashes that result in 39 distinct outputs (32.23%)
+[2022.06.02-19.23.08:141][ 71]LogShaderCompilers: Display: RAM used: 0.22 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2022.06.02-19.23.08:141][ 71]LogShaderCompilers: Display: ================================================
+[2022.06.02-19.23.08:206][ 72]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.02-19.23.10:739][ 96]LogHttp: Warning: 000002603D139600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.02-19.23.10:739][ 96]LogHttp: Warning: 000002603D139600: request failed, libcurl error: 35 (SSL connect error)
+[2022.06.02-19.23.10:739][ 96]LogHttp: Warning: 000002603D139600: libcurl info message cache 0 (Hostname datarouter.ol.epicgames.com was found in DNS cache)
+[2022.06.02-19.23.10:739][ 96]LogHttp: Warning: 000002603D139600: libcurl info message cache 1 (  Trying 18.233.176.243...)
+[2022.06.02-19.23.10:739][ 96]LogHttp: Warning: 000002603D139600: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.06.02-19.23.10:739][ 96]LogHttp: Warning: 000002603D139600: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (18.233.176.243) port 443 (#20))
+[2022.06.02-19.23.10:739][ 96]LogHttp: Warning: 000002603D139600: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.06.02-19.23.10:739][ 96]LogHttp: Warning: 000002603D139600: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.06.02-19.23.10:739][ 96]LogHttp: Warning: 000002603D139600: libcurl info message cache 6 (SSL re-using session ID)
+[2022.06.02-19.23.10:739][ 96]LogHttp: Warning: 000002603D139600: libcurl info message cache 7 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.06.02-19.23.10:739][ 96]LogHttp: Warning: 000002603D139600: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2022.06.02-19.23.10:739][ 96]LogHttp: Warning: 000002603D139600: libcurl info message cache 9 (Closing connection 20)
+[2022.06.02-19.23.10:739][ 96]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.02-19.23.13:557][123]LogMaterial: Display: Missing cached shadermap for prueba in PCD3D_SM5, Default, SM5 (DDC key hash: 7A49CEFFA4EA7FD51D28B092A87259EEA8CBBCC9), compiling. 
+[2022.06.02-19.23.13:559][123]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant4Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0B5CD4E67D31B66A93896AA5FF8256B2C32EF463), compiling. 
+[2022.06.02-19.23.13:564][123]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.02-19.23.13:595][125]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.02-19.23.13:595][125]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.06.02-19.23.13:595][125]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.06.02-19.23.13:595][125]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.02-19.23.13:616][125]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.02-19.23.14:015][131]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.06.02-19.23.14:015][131]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.06.02-19.23.14:015][131]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.02-19.23.14:015][131]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.02-19.23.14:716][138]LogMaterial: Display: Missing cached shadermap for prueba in PCD3D_SM5, Default, SM5 (DDC key hash: 35843462B91319AB94429F85A642716F50BB1290), compiling. 
+[2022.06.02-19.23.14:718][138]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.02-19.23.14:782][140]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.06.02-19.23.14:782][140]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.06.02-19.23.14:782][140]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.02-19.23.14:782][140]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.02-19.23.19:196][193]LogMaterial: Display: Missing cached shadermap for prueba in PCD3D_SM5, Default, SM5 (DDC key hash: 94FBFEB0C5D7FAB6A99028C5756267CDBD10A98C), compiling. 
+[2022.06.02-19.23.19:198][193]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 75F1B0CBFE44CEC6AAC5373BA196C2BE9BF939BD), compiling. 
+[2022.06.02-19.23.19:202][193]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.02-19.23.19:232][195]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.02-19.23.19:233][195]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.06.02-19.23.19:233][195]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.06.02-19.23.19:233][195]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.02-19.23.19:255][195]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.06.02-19.23.19:255][195]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.06.02-19.23.19:255][195]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.02-19.23.19:255][195]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.02-19.23.24:789][256]LogMaterial: Display: Missing cached shadermap for prueba in PCD3D_SM5, Default, SM5 (DDC key hash: 589237BF10F324A2C6DFD6E910CF3B1CB238F6FB), compiling. 
+[2022.06.02-19.23.24:791][256]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1133114C0FD4FFC03912C7E48A1F3A99661B132E), compiling. 
+[2022.06.02-19.23.24:794][256]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.02-19.23.24:923][259]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.06.02-19.23.24:923][259]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.06.02-19.23.24:923][259]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.02-19.23.24:923][259]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.02-19.23.27:956][288]LogMaterial: Display: Missing cached shadermap for prueba in PCD3D_SM5, Default, SM5 (DDC key hash: 219729619B841F31BD2BAF767DD8A2B9832E3719), compiling. 
+[2022.06.02-19.23.27:959][288]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B116FA0D275FC5C91F1EF3B606ACDF1D5F34426E), compiling. 
+[2022.06.02-19.23.27:961][288]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.02-19.23.28:055][290]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.02-19.23.28:156][291]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.06.02-19.23.28:156][291]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.06.02-19.23.28:156][291]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.02-19.23.28:156][291]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.02-19.23.28:822][296]LogMaterial: Display: Missing cached shadermap for prueba in PCD3D_SM5, Default, SM5 (DDC key hash: 47BE39C5A42571C8FDDB1F0249002CA924D341FC), compiling. 
+[2022.06.02-19.23.28:824][296]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 07947984C56CBFF14E40B23C1483702926B13B14), compiling. 
+[2022.06.02-19.23.28:826][296]LogSlate: Window 'Color Picker' being destroyed
+[2022.06.02-19.23.28:834][296]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.02-19.23.28:895][298]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.06.02-19.23.28:895][298]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.06.02-19.23.28:895][298]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.02-19.23.28:895][298]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.02-19.23.32:057][328]LogMaterial: Display: Missing cached shadermap for prueba in PCD3D_SM5, Default, SM5 (DDC key hash: 16E62F748EF5E510850C3A37B2A33C3305D88513), compiling. 
+[2022.06.02-19.23.32:058][328]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 456D6528888B33F61149F25F39192E2C0EE4558F), compiling. 
+[2022.06.02-19.23.32:061][328]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.02-19.23.32:388][332]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.06.02-19.23.32:388][332]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.06.02-19.23.32:388][332]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.02-19.23.32:388][332]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.02-19.23.35:423][358]LogMaterial: Display: Missing cached shadermap for prueba in PCD3D_SM5, Default, SM5 (DDC key hash: 13CAA4C90D88BBE05139249EBD42B30370810E58), compiling. 
+[2022.06.02-19.23.35:424][358]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4F70879FE30196493F0FF261666E8EA596AE967A), compiling. 
+[2022.06.02-19.23.35:426][358]MaterialEditorStats: Texture samplers: 0/16
+[2022.06.02-19.23.35:459][360]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.02-19.23.35:461][360]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.06.02-19.23.35:461][360]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.06.02-19.23.35:461][360]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.02-19.23.35:565][361]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.02-19.23.35:565][361]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.06.02-19.23.35:565][361]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.06.02-19.23.35:565][361]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.02-19.23.35:565][361]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.06.02-19.23.36:881][372]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2022.06.02-19.23.36:881][372]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2022.06.02-19.23.36:881][372]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2022.06.02-19.23.36:881][372]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2022.06.02-19.23.36:881][372]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2022.06.02-19.23.36:881][372]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2022.06.02-19.23.36:881][372]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2022.06.02-19.23.36:881][372]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2022.06.02-19.23.36:881][372]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.06.02-19.23.36:889][372]LogMaterial: Display: Missing cached shadermap for prueba in PCD3D_SM5, Default, SM5 (DDC key hash: 57A573F0F6C77801690B3E8F4B2858818F615CBE), compiling. 
+[2022.06.02-19.23.36:891][372]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8AD792D45F41D2C72CD874E525211599A668D5B0), compiling. 
+[2022.06.02-19.23.36:893][372]LogSlate: Window 'Color Picker' being destroyed
+[2022.06.02-19.23.36:957][374]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.02-19.23.42:691][460]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.06.02-19.23.42:691][460]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.06.02-19.23.42:691][460]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.06.02-19.23.42:691][460]MaterialEditorStats: Texture samplers: 2/16
+[2022.06.02-19.24.11:147][596]LogHttp: Warning: 00000260A2C09600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.02-19.24.11:147][596]LogHttp: Warning: 00000260A2C09600: request failed, libcurl error: 35 (SSL connect error)
+[2022.06.02-19.24.11:147][596]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.06.02-19.24.11:147][596]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 1 (  Trying 52.21.241.71...)
+[2022.06.02-19.24.11:147][596]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.06.02-19.24.11:147][596]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.21.241.71) port 443 (#21))
+[2022.06.02-19.24.11:147][596]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.06.02-19.24.11:147][596]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.06.02-19.24.11:147][596]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 6 (SSL re-using session ID)
+[2022.06.02-19.24.11:147][596]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 7 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.06.02-19.24.11:147][596]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2022.06.02-19.24.11:147][596]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 9 (Closing connection 21)
+[2022.06.02-19.24.11:147][596]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.02-19.25.11:129][775]LogHttp: Warning: 00000260A2C09600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.02-19.25.11:129][775]LogHttp: Warning: 00000260A2C09600: request failed, libcurl error: 35 (SSL connect error)
+[2022.06.02-19.25.11:129][775]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.06.02-19.25.11:130][775]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 1 (  Trying 34.236.117.182...)
+[2022.06.02-19.25.11:130][775]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.06.02-19.25.11:130][775]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.236.117.182) port 443 (#22))
+[2022.06.02-19.25.11:130][775]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.06.02-19.25.11:130][775]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.06.02-19.25.11:130][775]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 6 (SSL re-using session ID)
+[2022.06.02-19.25.11:130][775]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 7 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.06.02-19.25.11:130][775]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2022.06.02-19.25.11:130][775]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 9 (Closing connection 22)
+[2022.06.02-19.25.11:464][776]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.02-19.26.11:068][954]LogHttp: Warning: 00000260A2C09600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.02-19.26.11:068][954]LogHttp: Warning: 00000260A2C09600: request failed, libcurl error: 35 (SSL connect error)
+[2022.06.02-19.26.11:069][954]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.06.02-19.26.11:069][954]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 1 (  Trying 54.225.91.177...)
+[2022.06.02-19.26.11:069][954]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.06.02-19.26.11:069][954]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (54.225.91.177) port 443 (#23))
+[2022.06.02-19.26.11:069][954]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.06.02-19.26.11:069][954]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.06.02-19.26.11:069][954]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 6 (SSL re-using session ID)
+[2022.06.02-19.26.11:069][954]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 7 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.06.02-19.26.11:069][954]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2022.06.02-19.26.11:069][954]LogHttp: Warning: 00000260A2C09600: libcurl info message cache 9 (Closing connection 23)
+[2022.06.02-19.26.11:069][954]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.02-19.27.10:992][133]LogHttp: Warning: 0000025FB3ED0F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.02-19.27.10:993][133]LogHttp: Warning: 0000025FB3ED0F00: request failed, libcurl error: 35 (SSL connect error)
+[2022.06.02-19.27.10:993][133]LogHttp: Warning: 0000025FB3ED0F00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.06.02-19.27.10:993][133]LogHttp: Warning: 0000025FB3ED0F00: libcurl info message cache 1 (  Trying 3.215.203.133...)
+[2022.06.02-19.27.10:993][133]LogHttp: Warning: 0000025FB3ED0F00: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.06.02-19.27.10:993][133]LogHttp: Warning: 0000025FB3ED0F00: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (3.215.203.133) port 443 (#24))
+[2022.06.02-19.27.10:993][133]LogHttp: Warning: 0000025FB3ED0F00: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.06.02-19.27.10:993][133]LogHttp: Warning: 0000025FB3ED0F00: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.06.02-19.27.10:993][133]LogHttp: Warning: 0000025FB3ED0F00: libcurl info message cache 6 (SSL re-using session ID)
+[2022.06.02-19.27.10:993][133]LogHttp: Warning: 0000025FB3ED0F00: libcurl info message cache 7 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.06.02-19.27.10:993][133]LogHttp: Warning: 0000025FB3ED0F00: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2022.06.02-19.27.10:993][133]LogHttp: Warning: 0000025FB3ED0F00: libcurl info message cache 9 (Closing connection 24)
+[2022.06.02-19.27.11:325][134]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.02-19.28.11:180][313]LogHttp: Warning: 00000260A3319600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.02-19.28.11:180][313]LogHttp: Warning: 00000260A3319600: request failed, libcurl error: 35 (SSL connect error)
+[2022.06.02-19.28.11:180][313]LogHttp: Warning: 00000260A3319600: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.06.02-19.28.11:180][313]LogHttp: Warning: 00000260A3319600: libcurl info message cache 1 (  Trying 3.223.234.69...)
+[2022.06.02-19.28.11:180][313]LogHttp: Warning: 00000260A3319600: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.06.02-19.28.11:180][313]LogHttp: Warning: 00000260A3319600: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (3.223.234.69) port 443 (#25))
+[2022.06.02-19.28.11:180][313]LogHttp: Warning: 00000260A3319600: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.06.02-19.28.11:181][313]LogHttp: Warning: 00000260A3319600: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.06.02-19.28.11:181][313]LogHttp: Warning: 00000260A3319600: libcurl info message cache 6 (SSL re-using session ID)
+[2022.06.02-19.28.11:181][313]LogHttp: Warning: 00000260A3319600: libcurl info message cache 7 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.06.02-19.28.11:181][313]LogHttp: Warning: 00000260A3319600: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2022.06.02-19.28.11:181][313]LogHttp: Warning: 00000260A3319600: libcurl info message cache 9 (Closing connection 25)
+[2022.06.02-19.28.11:514][314]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.02-19.29.11:073][492]LogHttp: Warning: 0000025FB3ED1600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.02-19.29.11:073][492]LogHttp: Warning: 0000025FB3ED1600: request failed, libcurl error: 35 (SSL connect error)
+[2022.06.02-19.29.11:073][492]LogHttp: Warning: 0000025FB3ED1600: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.06.02-19.29.11:073][492]LogHttp: Warning: 0000025FB3ED1600: libcurl info message cache 1 (  Trying 52.4.138.213...)
+[2022.06.02-19.29.11:073][492]LogHttp: Warning: 0000025FB3ED1600: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.06.02-19.29.11:073][492]LogHttp: Warning: 0000025FB3ED1600: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.4.138.213) port 443 (#26))
+[2022.06.02-19.29.11:073][492]LogHttp: Warning: 0000025FB3ED1600: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.06.02-19.29.11:073][492]LogHttp: Warning: 0000025FB3ED1600: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.06.02-19.29.11:073][492]LogHttp: Warning: 0000025FB3ED1600: libcurl info message cache 6 (SSL re-using session ID)
+[2022.06.02-19.29.11:073][492]LogHttp: Warning: 0000025FB3ED1600: libcurl info message cache 7 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.06.02-19.29.11:073][492]LogHttp: Warning: 0000025FB3ED1600: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2022.06.02-19.29.11:073][492]LogHttp: Warning: 0000025FB3ED1600: libcurl info message cache 9 (Closing connection 26)
+[2022.06.02-19.29.11:073][492]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.02-19.30.10:946][671]LogHttp: Warning: 00000260A3318800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.02-19.30.10:946][671]LogHttp: Warning: 00000260A3318800: request failed, libcurl error: 35 (SSL connect error)
+[2022.06.02-19.30.10:946][671]LogHttp: Warning: 00000260A3318800: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.06.02-19.30.10:946][671]LogHttp: Warning: 00000260A3318800: libcurl info message cache 1 (  Trying 3.225.103.153...)
+[2022.06.02-19.30.10:946][671]LogHttp: Warning: 00000260A3318800: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.06.02-19.30.10:946][671]LogHttp: Warning: 00000260A3318800: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (3.225.103.153) port 443 (#27))
+[2022.06.02-19.30.10:946][671]LogHttp: Warning: 00000260A3318800: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.06.02-19.30.10:946][671]LogHttp: Warning: 00000260A3318800: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.06.02-19.30.10:946][671]LogHttp: Warning: 00000260A3318800: libcurl info message cache 6 (SSL re-using session ID)
+[2022.06.02-19.30.10:946][671]LogHttp: Warning: 00000260A3318800: libcurl info message cache 7 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.06.02-19.30.10:946][671]LogHttp: Warning: 00000260A3318800: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2022.06.02-19.30.10:946][671]LogHttp: Warning: 00000260A3318800: libcurl info message cache 9 (Closing connection 27)
+[2022.06.02-19.30.11:279][672]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.02-19.30.34:357][776]LogSlate: Window 'Message' being destroyed
+[2022.06.02-19.30.34:362][776]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/ThirdPersonBP/Corral/Corral3/prueba.prueba
+(Selecting 'No' will cause all changes to be lost!)
+[2022.06.02-19.30.34:363][776]LogSlate: Window 'prueba' being destroyed
+[2022.06.02-19.30.34:365][776]LogSlate: Window 'prueba' being destroyed
+[2022.06.02-19.30.34:370][776]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-19.30.34:370][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-19.31.10:713][861]LogHttp: Warning: 00000260A2DF4100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.02-19.31.10:713][861]LogHttp: Warning: 00000260A2DF4100: request failed, libcurl error: 35 (SSL connect error)
+[2022.06.02-19.31.10:713][861]LogHttp: Warning: 00000260A2DF4100: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.06.02-19.31.10:713][861]LogHttp: Warning: 00000260A2DF4100: libcurl info message cache 1 (  Trying 34.205.137.10...)
+[2022.06.02-19.31.10:713][861]LogHttp: Warning: 00000260A2DF4100: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.06.02-19.31.10:713][861]LogHttp: Warning: 00000260A2DF4100: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.205.137.10) port 443 (#28))
+[2022.06.02-19.31.10:713][861]LogHttp: Warning: 00000260A2DF4100: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.06.02-19.31.10:713][861]LogHttp: Warning: 00000260A2DF4100: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.06.02-19.31.10:713][861]LogHttp: Warning: 00000260A2DF4100: libcurl info message cache 6 (SSL re-using session ID)
+[2022.06.02-19.31.10:713][861]LogHttp: Warning: 00000260A2DF4100: libcurl info message cache 7 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.06.02-19.31.10:713][861]LogHttp: Warning: 00000260A2DF4100: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2022.06.02-19.31.10:713][861]LogHttp: Warning: 00000260A2DF4100: libcurl info message cache 9 (Closing connection 28)
+[2022.06.02-19.31.10:746][862]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.02-19.32.10:647][659]LogHttp: Warning: 000002601CA43200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.02-19.32.10:647][659]LogHttp: Warning: 000002601CA43200: request failed, libcurl error: 35 (SSL connect error)
+[2022.06.02-19.32.10:647][659]LogHttp: Warning: 000002601CA43200: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.06.02-19.32.10:647][659]LogHttp: Warning: 000002601CA43200: libcurl info message cache 1 (  Trying 3.212.24.141...)
+[2022.06.02-19.32.10:647][659]LogHttp: Warning: 000002601CA43200: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.06.02-19.32.10:647][659]LogHttp: Warning: 000002601CA43200: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (3.212.24.141) port 443 (#29))
+[2022.06.02-19.32.10:647][659]LogHttp: Warning: 000002601CA43200: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.06.02-19.32.10:647][659]LogHttp: Warning: 000002601CA43200: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.06.02-19.32.10:647][659]LogHttp: Warning: 000002601CA43200: libcurl info message cache 6 (SSL re-using session ID)
+[2022.06.02-19.32.10:647][659]LogHttp: Warning: 000002601CA43200: libcurl info message cache 7 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.06.02-19.32.10:647][659]LogHttp: Warning: 000002601CA43200: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2022.06.02-19.32.10:647][659]LogHttp: Warning: 000002601CA43200: libcurl info message cache 9 (Closing connection 29)
+[2022.06.02-19.32.10:680][660]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.02-19.33.10:645][459]LogHttp: Warning: 000002603C91B900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.02-19.33.10:645][459]LogHttp: Warning: 000002603C91B900: request failed, libcurl error: 35 (SSL connect error)
+[2022.06.02-19.33.10:645][459]LogHttp: Warning: 000002603C91B900: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.06.02-19.33.10:645][459]LogHttp: Warning: 000002603C91B900: libcurl info message cache 1 (  Trying 52.6.193.104...)
+[2022.06.02-19.33.10:645][459]LogHttp: Warning: 000002603C91B900: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.06.02-19.33.10:645][459]LogHttp: Warning: 000002603C91B900: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.6.193.104) port 443 (#30))
+[2022.06.02-19.33.10:645][459]LogHttp: Warning: 000002603C91B900: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.06.02-19.33.10:645][459]LogHttp: Warning: 000002603C91B900: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.06.02-19.33.10:645][459]LogHttp: Warning: 000002603C91B900: libcurl info message cache 6 (SSL re-using session ID)
+[2022.06.02-19.33.10:645][459]LogHttp: Warning: 000002603C91B900: libcurl info message cache 7 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.06.02-19.33.10:645][459]LogHttp: Warning: 000002603C91B900: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2022.06.02-19.33.10:645][459]LogHttp: Warning: 000002603C91B900: libcurl info message cache 9 (Closing connection 30)
+[2022.06.02-19.33.10:679][460]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.02-19.34.10:943][359]LogHttp: Warning: 00000260A2DF7900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.02-19.34.10:943][359]LogHttp: Warning: 00000260A2DF7900: request failed, libcurl error: 35 (SSL connect error)
+[2022.06.02-19.34.10:943][359]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.06.02-19.34.10:943][359]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 1 (  Trying 52.200.162.212...)
+[2022.06.02-19.34.10:943][359]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.06.02-19.34.10:943][359]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.200.162.212) port 443 (#31))
+[2022.06.02-19.34.10:943][359]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.06.02-19.34.10:943][359]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.06.02-19.34.10:943][359]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 6 (SSL re-using session ID)
+[2022.06.02-19.34.10:943][359]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 7 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.06.02-19.34.10:943][359]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2022.06.02-19.34.10:943][359]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 9 (Closing connection 31)
+[2022.06.02-19.34.11:275][360]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.02-19.35.10:936][538]LogHttp: Warning: 00000260A2DF7900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.02-19.35.10:936][538]LogHttp: Warning: 00000260A2DF7900: request failed, libcurl error: 35 (SSL connect error)
+[2022.06.02-19.35.10:936][538]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.06.02-19.35.10:936][538]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 1 (  Trying 44.195.207.204...)
+[2022.06.02-19.35.10:936][538]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.06.02-19.35.10:936][538]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (44.195.207.204) port 443 (#32))
+[2022.06.02-19.35.10:936][538]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.06.02-19.35.10:936][538]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.06.02-19.35.10:936][538]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 6 (SSL re-using session ID)
+[2022.06.02-19.35.10:936][538]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 7 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.06.02-19.35.10:936][538]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2022.06.02-19.35.10:936][538]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 9 (Closing connection 32)
+[2022.06.02-19.35.10:936][538]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.02-19.36.11:058][717]LogHttp: Warning: 00000260A2DF7900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.02-19.36.11:058][717]LogHttp: Warning: 00000260A2DF7900: request failed, libcurl error: 35 (SSL connect error)
+[2022.06.02-19.36.11:058][717]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.06.02-19.36.11:058][717]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 1 (  Trying 34.226.53.203...)
+[2022.06.02-19.36.11:058][717]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.06.02-19.36.11:058][717]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.226.53.203) port 443 (#33))
+[2022.06.02-19.36.11:058][717]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.06.02-19.36.11:058][717]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.06.02-19.36.11:058][717]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 6 (SSL re-using session ID)
+[2022.06.02-19.36.11:058][717]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 7 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.06.02-19.36.11:058][717]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2022.06.02-19.36.11:058][717]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 9 (Closing connection 33)
+[2022.06.02-19.36.11:391][718]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.02-19.37.11:173][896]LogHttp: Warning: 00000260A2DF7900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.02-19.37.11:173][896]LogHttp: Warning: 00000260A2DF7900: request failed, libcurl error: 35 (SSL connect error)
+[2022.06.02-19.37.11:173][896]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2022.06.02-19.37.11:173][896]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 1 (  Trying 54.158.240.126...)
+[2022.06.02-19.37.11:173][896]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 2 (TCP_NODELAY set)
+[2022.06.02-19.37.11:173][896]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (54.158.240.126) port 443 (#34))
+[2022.06.02-19.37.11:173][896]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2022.06.02-19.37.11:173][896]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2022.06.02-19.37.11:173][896]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 6 (SSL re-using session ID)
+[2022.06.02-19.37.11:173][896]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 7 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2022.06.02-19.37.11:175][896]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2022.06.02-19.37.11:175][896]LogHttp: Warning: 00000260A2DF7900: libcurl info message cache 9 (Closing connection 34)
+[2022.06.02-19.37.11:175][896]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE505333C-4767-01BC-EA17-3CB772450FD2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2e3ddedd4fc7f7f7e1b51f89a12d2353%7Cf57d86f6b2b844d0b1db5bdbfb3d28f5%7Cdd291bbf-9a37-48df-8ee7-2c6ee5ffc08e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.02-19.43.45:925][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.06.02-19.43.46:769][261]LogSlate: Window 'Save Content' being destroyed
+[2022.06.02-19.43.46:860][261]LogSavePackage: Moving '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Saved/prueba467A3D1C4C8977CDDDF482836681F538.tmp' to '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Content/ThirdPersonBP/Corral/Corral3/prueba.uasset'
+[2022.06.02-19.43.46:886][261]AssetCheck: New page: Asset Save: prueba
+[2022.06.02-19.43.46:886][261]LogContentValidation: Display: Validating Material /Game/ThirdPersonBP/Corral/Corral3/prueba.prueba
