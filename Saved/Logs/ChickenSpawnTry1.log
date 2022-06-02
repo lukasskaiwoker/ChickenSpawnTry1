@@ -1268,3 +1268,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.02-19.51.17:475][917]LogContentValidation: Display: Validating Material /Game/Characters/Blanco.Blanco
 [2022.06.02-19.51.17:475][917]LogContentValidation: Display: Validating StaticMesh /Game/Characters/Pollo.Pollo
 [2022.06.02-19.51.17:475][917]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.06.02-19.52.54:353][ 34]LogSlate: Window 'Source Control Login' being destroyed
+[2022.06.02-19.52.58:970][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
