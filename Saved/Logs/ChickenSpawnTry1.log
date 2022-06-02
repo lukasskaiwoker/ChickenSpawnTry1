@@ -2167,3 +2167,73 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.02-19.43.46:860][261]LogSavePackage: Moving '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Saved/prueba467A3D1C4C8977CDDDF482836681F538.tmp' to '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Content/ThirdPersonBP/Corral/Corral3/prueba.uasset'
 [2022.06.02-19.43.46:886][261]AssetCheck: New page: Asset Save: prueba
 [2022.06.02-19.43.46:886][261]LogContentValidation: Display: Validating Material /Game/ThirdPersonBP/Corral/Corral3/prueba.prueba
+[2022.06.02-19.46.15:904][779]LogEditorViewport: Clicking on Actor (double click): BP_SpawnPiont_C (BP_SpawnPiont)
+[2022.06.02-19.46.31:572][156]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.06.02-19.46.52:302][632]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/BP_SpawnPiont.BP_SpawnPiont
+[2022.06.02-19.46.52:841][632]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 126 classes and 0 folders.
+[2022.06.02-19.47.35:401][213]LogSlate: Window 'BP_SpawnPiont' being destroyed
+[2022.06.02-19.47.35:504][213]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-19.47.35:504][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-19.47.44:208][466]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2022.06.02-19.48.31:878][599]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.06.02-19.48.33:530][599]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.02-19.48.33:694][599]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.06.02-19.48.33:708][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.06.02-19.48.33:722][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.06.02-19.48.33:738][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.06.02-19.48.33:752][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.02-19.48.33:767][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.06.02-19.48.33:781][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.06.02-19.48.33:794][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.06.02-19.48.33:808][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.06.02-19.48.33:822][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.06.02-19.48.33:835][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.06.02-19.48.33:849][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.06.02-19.48.33:885][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.06.02-19.48.33:899][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.06.02-19.48.41:234][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.06.02-19.48.42:034][745]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.02-19.48.42:198][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.06.02-19.48.42:215][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.06.02-19.48.42:230][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.02-19.48.42:243][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.06.02-19.48.42:256][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.06.02-19.48.42:270][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.06.02-19.48.42:308][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.06.02-19.48.42:322][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.02-19.49.28:731][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.06.02-19.49.29:805][899]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.02-19.49.29:964][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.06.02-19.49.29:979][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.06.02-19.49.29:993][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.06.02-19.49.30:029][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.06.02-19.49.30:043][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.06.02-19.49.48:347][268]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/AI/AIC_EnemyGuard.AIC_EnemyGuard
+[2022.06.02-19.50.05:758][490]LogSlate: Window 'AIC_EnemyGuard' being destroyed
+[2022.06.02-19.50.05:866][490]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-19.50.05:866][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-19.50.08:259][535]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/ThirdPersonBP/Blueprints/AI/BB_EnemyGuard.BB_EnemyGuard
+[2022.06.02-19.50.16:793][657]LogSlate: Window 'BB_EnemyGuard' being destroyed
+[2022.06.02-19.50.16:865][657]LogSlate: Window 'BB_EnemyGuard' being destroyed
+[2022.06.02-19.50.17:958][679]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/ThirdPersonBP/Blueprints/AI/BT_EnemyGuard.BT_EnemyGuard
+[2022.06.02-19.50.22:227][740]LogSlate: Window 'BT_EnemyGuard' being destroyed
+[2022.06.02-19.50.22:297][740]LogSlate: Window 'BT_EnemyGuard' being destroyed
+[2022.06.02-19.50.23:459][767]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/AI/BTT_SetMoveToLocation.BTT_SetMoveToLocation
+[2022.06.02-19.50.26:815][810]LogSlate: Window 'BTT_SetMoveToLocation' being destroyed
+[2022.06.02-19.50.26:887][810]LogSlate: Window 'BTT_SetMoveToLocation' being destroyed
+[2022.06.02-19.50.26:890][810]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-19.50.26:890][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-19.50.28:061][836]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/AI/BTT_SetMoveToLocation.BTT_SetMoveToLocation
+[2022.06.02-19.50.32:631][956]LogSlate: Window 'BTT_SetMoveToLocation' being destroyed
+[2022.06.02-19.50.32:668][956]LogSlate: Window 'BTT_SetMoveToLocation' being destroyed
+[2022.06.02-19.50.32:670][956]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-19.50.32:670][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-19.51.06:924][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.06.02-19.51.07:828][975]LogSlate: Window 'Save Content' being destroyed
+[2022.06.02-19.51.07:898][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.06.02-19.51.07:918][975]LogSavePackage: Moving '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Saved/ThirdPersonExampleMapCC02756343B1E90A886E5EB5BC67A3C7.tmp' to '../../../../../../Users/Mr.Swagger/Documents/Unreal Projects/ChickenSpawnTry1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.06.02-19.51.07:924][975]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.044
+[2022.06.02-19.51.07:950][975]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2022.06.02-19.51.07:950][975]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.06.02-19.51.09:542][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.06.02-19.51.10:830][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
